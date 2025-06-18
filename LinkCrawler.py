@@ -416,7 +416,7 @@ Benefits:
 		os.system("""
 			cd -
 			rm -rf LinkCrawler
-			git clone https://github.com/SoloTech01/LinkCrawler
+			git clone https://github.com/TheLogeek/LinkCrawler
 			cd LinkCrawler
 			python3 LinkCrawler.py
 			""")
