@@ -227,9 +227,9 @@ def program_intro():
 	print(f"""{GREEN}IMPORTANT{RESET}: {YELLOW}AFTER EXTRACTING LINKS USING THIS TOOL,CHECK YOUR CURRENT WORKING DIRECTORY FOR THE INTERNAL AND EXTERNAL URLs FILES: {Path.cwd()}""")
 	print(RESET)
 	print(YELLOW)
-	print(f""""[+]Author: Solomon Adenuga
+	print(f""""[+]Developer: Solomon Adenuga
 [+] Version: 1.2
-[+] Github: https://github.com/SoloTech01
+[+] Github: https://github.com/TheLogeek
 [+] Whatsappp: +2348023710562""")
 	print("=====" * 6)
 	print(f"""
